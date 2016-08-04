@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<group android:checkableBehavior="single">-->
+    <!--<item-->
+    <!--android:id="@+id/nav_camera"-->
+    <!--android:icon="@drawable/ic_menu_camera"-->
+    <!--android:title="Import" />-->
+    <!--<item-->
+    <!--android:id="@+id/nav_gallery"-->
+    <!--android:icon="@drawable/ic_menu_gallery"-->
+    <!--android:title="Gallery" />-->
+    <!--<item-->
+    <!--android:id="@+id/nav_slideshow"-->
+    <!--android:icon="@drawable/ic_menu_slideshow"-->
+    <!--android:title="Slideshow" />-->
+    <!--<item-->
+    <!--android:id="@+id/nav_manage"-->
+    <!--android:icon="@drawable/ic_menu_manage"-->
+    <!--android:title="Tools" />-->
+    <!--</group>-->
+
+    <item android:title="CREATIONAL PATTERN">
+        <menu>
+            <item
+                android:id="@+id/factoryPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/factory_pattern" />
+            <item
+                android:id="@+id/abstractFactoryPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/abstract_factory_pattern" />
+            <item
+                android:id="@+id/singletonPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/singleton_pattern" />
+            <item
+                android:id="@+id/prototypePattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/prototype_pattern" />
+            <item
+                android:id="@+id/builerPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/builder_pattern" />
+
+
+        </menu>
+    </item>
+    <item android:title="STRUCTURAL PATTERN">
+        <menu>
+            <item
+                android:id="@+id/adapterPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/adapter_pattern" />
+            <item
+                android:id="@+id/bridgePattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/bridge_pattern" />
+            <item
+                android:id="@+id/compositePattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/composite_pattern" />
+            <item
+                android:id="@+id/decoratorPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/decorator_pattern" />
+            <item
+                android:id="@+id/facadePattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/facade_pattern" />
+            <item
+                android:id="@+id/flyweightPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/flyweight_pattern" />
+            <item
+                android:id="@+id/privateClassPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/private_class_pattern" />
+            <item
+                android:id="@+id/proxyPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/proxy_pattern" />
+
+
+        </menu>
+    </item>
+    <item android:title="BEHAVIOURAL PATTERN">
+        <menu>
+            <item
+                android:id="@+id/corPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/chain_of_responsibility_pattern" />
+            <item
+                android:id="@+id/commandPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/command_pattern" />
+            <item
+                android:id="@+id/interpreterPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/interpreter_pattern" />
+            <item
+                android:id="@+id/iteratorPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/iterator_pattern" />
+            <item
+                android:id="@+id/mediatorPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/mediator_pattern" />
+            <item
+                android:id="@+id/mementoPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/memento_pattern" />
+            <item
+                android:id="@+id/nullObjectPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/null_object_pattern" />
+            <item
+                android:id="@+id/observerPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/observer_pattern" />
+            <item
+                android:id="@+id/statePattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/state_pattern" />
+            <item
+                android:id="@+id/strategyPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/strategy_pattern" />
+            <item
+                android:id="@+id/templatePattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/template_method" />
+
+            <item
+                android:id="@+id/visitorPattern"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/visitor_pattern" />
+        </menu>
+    </item>
+
+</menu>

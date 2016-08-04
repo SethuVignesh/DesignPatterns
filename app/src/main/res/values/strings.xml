@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">Design Patterns</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Book Cab</item>
+        <item >Fair Details</item>
+        <item >Profile</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/taxi_yellow</item>
+        <item>@drawable/rupee_mod</item>
+        <item>@drawable/user_mod</item>
+
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string-array name="drawer_titles">
+        <item>Tabs</item>
+        <item>WebView</item>
+    </string-array>
+
+
+
+
+
+
+    <string name="title_activity_item_one">ItemOne</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+
+    <string-array name="accompanied_type">
+        <item>Accompany type</item>
+        <item>Accompanied</item>
+        <item>Un Accompanied</item>
+
+    </string-array>
+    <string-array name="area_id">
+        <item>Select Area</item>
+        <item>New BEL Road</item>
+        <item>Shivaji Nagar</item>
+        <item>MG Road</item>
+    </string-array>
+    <string-array name="trip_type">
+        <item>Trip type</item>
+        <item>One Way</item>
+        <item>Round Trip</item>
+    </string-array>
+    <string-array name="cab_type1">
+        <item>  Cab Type</item>
+        <item>  Omni</item>
+        <item>  Maruti Eeco </item>
+    </string-array>
+    <string-array name="cab_type2">
+        <item>  Cab Type</item>
+        <item>  Omni</item>
+        <item>  Qualis </item>
+        <item>  Innova</item>
+    </string-array><string-array name="cab_type3">
+    <item>  Cab Type</item>
+    <item>  Omni</item>
+</string-array>
+    <string-array name="cab_type4">
+        <item>  Cab Type</item>
+        <item>  Omni</item>
+        <item>  Qualis </item>
+        <item>  Innova</item>
+        <item>  Tata Winger </item>
+        <item>  Maruti Eeco </item>
+    </string-array>
+
+    <string-array name="location_type">
+        <item>Location Type</item>
+        <item>Local</item>
+        <item>Airport/ Railway station</item>
+        <item>Pet Cemetry</item>
+        <item>Out Station</item>
+    </string-array>
+    <string-array name="number_of_cabs">
+        <item> No of Cabs</item>
+        <item> 1 </item>
+        <item> 2 </item>
+    </string-array>
+    <string-array name="accompanied">
+        <item> Accompanied </item>
+        <item> Un-Accompanied </item>
+
+    </string-array>
+    <string-array name="round_trip">
+        <item> Round Trip </item>
+        <item> One way </item>
+
+    </string-array>
+    <string name="title_activity_book_acab">Map</string>
+    <string name="title_activity_error_internet">Internet Error!</string>
+    <string name="factory_pattern">Factory Pattern</string>
+    <string name="abstract_factory_pattern">Abstract Factory Pattern</string>
+    <string name="singleton_pattern">Singleton Pattern</string>
+    <string name="prototype_pattern">Prototype Pattern</string>
+    <string name="builder_pattern">Builder Pattern</string>
+    <string name="adapter_pattern">Adapter Pattern</string>
+    <string name="bridge_pattern">Bridge Pattern</string>
+    <string name="composite_pattern">Composite Pattern</string>
+    <string name="decorator_pattern">Decorator Pattern</string>
+    <string name="facade_pattern">Facade Pattern</string>
+    <string name="flyweight_pattern">Flyweight Pattern</string>
+    <string name="private_class_pattern">Private Class Pattern</string>
+    <string name="proxy_pattern">Proxy Pattern</string>
+    <string name="chain_of_responsibility_pattern">Chain Of Responsibility Pattern</string>
+    <string name="command_pattern">Command Pattern</string>
+    <string name="interpreter_pattern">Interpreter Pattern</string>
+    <string name="iterator_pattern">Iterator Pattern</string>
+    <string name="mediator_pattern">Mediator Pattern</string>
+    <string name="memento_pattern">Memento Pattern</string>
+    <string name="null_object_pattern">Null Object Pattern</string>
+    <string name="observer_pattern">Observer Pattern</string>
+    <string name="state_pattern">State Pattern</string>
+    <string name="strategy_pattern">Strategy Pattern</string>
+    <string name="template_method">Template method</string>
+    <string name="visitor_pattern">Visitor Pattern</string>
+    <string name="j2ee_pattern">J2EE PATTERN</string>
+    <string name="mediatorPattern">mediatorPattern</string>
+    <string name="mementoPattern">mementoPattern</string>
+    <string name="nullObjectPattern">nullObjectPattern</string>
+    <string name="observerPattern">observerPattern</string>
+    <string name="statePattern">statePattern</string>
+    <string name="strategyPattern">strategyPattern</string>
+    <string name="templatePattern">templatePattern</string>
+    <string name="visitorPattern">visitorPattern</string>
+    <string name="factoryPattern">factoryPattern</string>
+    <string name="abstractFactoryPattern">abstractFactoryPattern</string>
+    <string name="singletonPattern">singletonPattern</string>
+    <string name="prototpePattern">prototypePattern</string>
+    <string name="builderPatterm">builerPattern</string>
+    <string name="adapterPattern">adapterPattern</string>
+    <string name="bridgePattern">bridgePattern</string>
+    <string name="compositePattern">compositePattern</string>
+    <string name="decoratorPattern">decoratorPattern</string>
+    <string name="facadePattern">facadePattern</string>
+    <string name="flyweightPattern">flyweightPattern</string>
+    <string name="privateClassPattern">privateClassPattern</string>
+    <string name="proxyPattern">proxyPattern</string>
+    <string name="corePattern">corPattern</string>
+    <string name="commandPattern">commandPattern</string>
+    <string name="interpreterPattern">interpreterPattern</string>
+    <string name="iteratorPattern">iteratorPattern</string>
+</resources>
